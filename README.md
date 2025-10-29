@@ -1,4 +1,4 @@
-# Ex.No: 11 Develop a application to add animations to ImageView,Move,blink,fade,clockwise,zoom,slide operations are perform in android studio.
+# Ex.No: 6 Develop a application to add animations to ImageView,Move,blink,fade,clockwise,zoom,slide operations are perform in android studio.
 
 
 # AIM:
@@ -10,7 +10,21 @@ To develop a application to add animation to imageview,move,blink,fade,clockwise
 Android Studio(Latest Version)
 
 # ALGORITHM:
+Step 1: Open Android Stdio and then click on File -> New -> New project.
 
+Step 2: Then type the Application name as calculator and click Next.
+
+Step 3: Then select the Minimum SDK as shown below and click Next.
+
+Step 4: Then select the Empty Activity and click Next. Finally click Finish.
+
+Step 5: Design layout using UI components in activity_main.xml.
+
+Step 6: Design xml files for all operations such as blink, rotate, move, slide, zoom, fade.
+
+Step 6: Display the button operations in MainActivity file.
+
+Step 7: Save and run the application
 
 
 # PROGRAM:
@@ -220,10 +234,7 @@ public class MainActivity extends AppCompatActivity {
 <img width="1920" height="1080" alt="Screenshot 2025-10-29 091952" src="https://github.com/user-attachments/assets/77a65803-3807-4b85-9e62-4bf2b81a9bee" />
 ## FADE
 <img width="1920" height="1080" alt="Screenshot 2025-10-29 092043" src="https://github.com/user-attachments/assets/cd58a819-89be-4167-bb85-c6eb17cbae2a" />
-
-
 ## MOVE
-
 <img width="1920" height="1080" alt="Screenshot 2025-10-29 092112" src="https://github.com/user-attachments/assets/13313693-f2b3-4d3f-86cc-30459422d00b" />
 ## DEFAULT
 <img width="1920" height="1080" alt="Screenshot 2025-10-29 091931" src="https://github.com/user-attachments/assets/14609c8f-a810-4244-a752-d027aa9a67c3" />
