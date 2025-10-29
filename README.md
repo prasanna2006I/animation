@@ -232,10 +232,13 @@ public class MainActivity extends AppCompatActivity {
 # OUTPUT
 ## BLINK
 <img width="1920" height="1080" alt="Screenshot 2025-10-29 091952" src="https://github.com/user-attachments/assets/77a65803-3807-4b85-9e62-4bf2b81a9bee" />
+
 ## FADE
 <img width="1920" height="1080" alt="Screenshot 2025-10-29 092043" src="https://github.com/user-attachments/assets/cd58a819-89be-4167-bb85-c6eb17cbae2a" />
+
 ## MOVE
 <img width="1920" height="1080" alt="Screenshot 2025-10-29 092112" src="https://github.com/user-attachments/assets/13313693-f2b3-4d3f-86cc-30459422d00b" />
+
 ## DEFAULT
 <img width="1920" height="1080" alt="Screenshot 2025-10-29 091931" src="https://github.com/user-attachments/assets/14609c8f-a810-4244-a752-d027aa9a67c3" />
 
